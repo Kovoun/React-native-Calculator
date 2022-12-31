@@ -1,7 +1,12 @@
-IOS Calculator app in React-native
+# IOS Calculator app in React-native
 
-Run project:
+To run this project, follow a few steps:
 
-npx install -g expo-cli
+1. Download and open project in Visual Studio Code
 
-npx expo start
+2. Open terminal and install expo-cli: <br />
+<strong> npx install -g expo-cli </strong>
+
+3. After installation completed, run project with this command: <br />
+<strong>npx expo start</strong>
+w
