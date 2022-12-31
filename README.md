@@ -8,5 +8,5 @@ To run this project, follow a few steps:
 <strong> npx install -g expo-cli </strong>
 
 3. After installation completed, run project with this command: <br />
-<strong>npx expo start</strong>
-w
+<strong>npx expo run:ios</strong>
+
