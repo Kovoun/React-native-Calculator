@@ -17,4 +17,4 @@ To run this project, follow a few steps:
 <strong>npm run start</strong>
 
 
-<img width="351" alt="Snímek obrazovky 2023-01-06 v 21 59 15" src="https://user-images.githubusercontent.com/85417606/211099034-c527277f-77f6-4fed-80ea-db3589fb1e0e.png">
+<img width="302" alt="Snímek obrazovky 2023-01-06 v 22 00 51" src="https://user-images.githubusercontent.com/85417606/211099252-508b68d6-bb6a-4951-9093-bce5650a2883.png">
