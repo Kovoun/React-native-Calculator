@@ -16,5 +16,4 @@ To run this project, follow a few steps:
 3. After installation completed, run project with this command: <br />
 <strong>npm run start</strong>
 
-
-<img width="302" alt="Snímek obrazovky 2023-01-06 v 22 00 51" src="https://user-images.githubusercontent.com/85417606/211099252-508b68d6-bb6a-4951-9093-bce5650a2883.png">
+<img width="303" alt="Snímek obrazovky 2023-01-06 v 22 01 45" src="https://user-images.githubusercontent.com/85417606/211099370-1bb63fcd-279e-40d4-b9af-82790e022078.png">
