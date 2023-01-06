@@ -11,7 +11,7 @@ To run this project, follow a few steps:
 
 2. Open terminal and install expo and node_modules with this commands: <br />
 <strong> npx install -g expo-cli </strong> <br />
-<strong> npx install </strong>
+<strong> npm install </strong>
 
 3. After installation completed, run project with this command: <br />
 <strong>npm run start</strong>
